@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "656177664285",
+    "firebase_url": "https://school-management-app-2-default-rtdb.firebaseio.com",
+    "project_id": "school-management-app-2",
+    "storage_bucket": "school-management-app-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656177664285:android:fa53a6d8d30de7811c91f4",
+        "android_client_info": {
+          "package_name": "com.example.schoolmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656177664285-iur0v5j7oban35b23lvfletkqcb83p51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiUpicNqfwXisrBfOVUvghhnt86_1BkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656177664285-iur0v5j7oban35b23lvfletkqcb83p51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656177664285:android:7983c6a7f4d448a01c91f4",
+        "android_client_info": {
+          "package_name": "com.example.userapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656177664285-iur0v5j7oban35b23lvfletkqcb83p51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUiUpicNqfwXisrBfOVUvghhnt86_1BkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656177664285-iur0v5j7oban35b23lvfletkqcb83p51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

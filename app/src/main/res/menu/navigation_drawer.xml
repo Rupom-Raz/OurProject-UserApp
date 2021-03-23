@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_ebook"
+        android:icon="@drawable/ebook_ic"
+        android:title="Ebooks" />
+
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/share_ic"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/navigation_review"
+        android:icon="@drawable/review_ic"
+        android:title="Rate Us" />
+    <item
+        android:id="@+id/navigation_color"
+        android:icon="@drawable/ic_color"
+        android:title="Theme" />
+
+    <item
+        android:id="@+id/navigation_developer"
+        android:icon="@drawable/developer_ic"
+        android:title="Developers" />
+
+
+</menu>

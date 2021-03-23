@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">User Application</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_Lu">Leading University is the first private university in Sylhet. Its a reality of my deepest dream from decades. Establishment of Leading University is the greatest work of many other deeds in my life that I could do from the mercy of Allah. To deliver the light of modern higher education in every pace of life, I establish the Leading University in 2001 by means of nominal fee structure. Today Leading University earned the name and fame not only in Sylhet but also in nationwide with the greatest support and love from the people of the country.</string>
+    <string name="contact_LU">Phone: 01313084499.
+info@lus.ac.bd</string>
+    <string name="address_LU">Kamal Bazar,Sylhet-3100,Bangladesh</string>
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+
+</resources>
